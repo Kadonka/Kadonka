@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kadonka
 - 👀 I’m interested in coding, creating, and improving.
 - 🌱 I’m currently learning HTML, CSS, Java.
-- 💞️ I’m looking to collaborate on anyting, I am a student looking for an oppurtunity! 
+- 💞️ I’m looking to collaborate on anything, I am a student looking for an oppurtunity! 
 - 📫 How to reach me kjackson@fssdsolutions.com
 
 <!---
